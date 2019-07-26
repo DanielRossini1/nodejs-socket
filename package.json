@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0",
+    "heroku": "^7.26.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laothz/nodejs-socket.git"
+  },
+  "author": "Daniel Rossini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laothz/nodejs-socket/issues"
+  },
+  "homepage": "https://github.com/Laothz/nodejs-socket#readme"
+}
